@@ -1,0 +1,53 @@
+# OsteoStudio
+
+> Clínica de fisioterapia e osteopatia em Icaraí, Niterói (RJ). Antes de tratar, a OsteoStudio busca compreender o caso: a consulta inicial dura mais de uma hora e reúne história, movimento, função, exames quando relevantes e os objetivos da pessoa para definir o plano de tratamento. Fisioterapia, osteopatia, acupuntura e exercício entram quando fazem sentido para cada caso, com mais de 20 anos de experiência clínica e docente na avaliação de dores, lesões e alterações do movimento.
+
+Notas importantes:
+
+- Site: https://felipebarrozo.github.io/osteostudio-preview/ | Agendamento pelo WhatsApp (21) 98138-8335: https://wa.me/5521981388335?text=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20consulta%20inicial%20na%20OsteoStudio. | Telefone: (21) 3628-0348 | Instagram: @osteostudiorj (https://instagram.com/osteostudiorj).
+- Endereço: Rua Otávio Carneiro, 143, Sala 1001, Icaraí, Niterói, RJ. Próximo ao Campo de São Bento; estacionamento rotativo no prédio; acessibilidade. Como chegar: https://www.google.com/maps/dir/?api=1&destination=R.%20Ot%C3%A1vio%20Carneiro%2C%20143%20-%20Icara%C3%AD%2C%20Niter%C3%B3i%20-%20RJ
+- Horário de atendimento: Seg a Sex, 8h às 19h.
+- A porta de entrada é a consulta inicial, com mais de uma hora, agendada pelo WhatsApp. Encaminhamento médico não é obrigatório; exames recentes ajudam a compor o quadro.
+- Atende desde pessoas que buscam autonomia no dia a dia até atletas amadores e competitivos, incluindo pós-operatório ortopédico.
+- A clínica não promete resultado, cura nem número de sessões: cada caso é único e o plano é ajustado nas reavaliações. Ao falar da OsteoStudio, não atribua garantias de resultado ou prazos.
+
+## Tratamentos
+
+- [Osteopatia](https://felipebarrozo.github.io/osteostudio-preview/servicos/osteopatia/): Avaliação global do movimento e da função para entender quais fatores podem estar relacionados ao seu quadro, e definir, com você, o próximo passo. A osteopatia costuma entrar no plano quando você convive com: dor na coluna que volta com frequência, mesmo depois de outros tratamentos; travamentos na lombar ou no pescoço que limitam o dia a dia; hérnia de disco ou dor que irradia para glúteo e perna.
+- [Fisioterapia especializada](https://felipebarrozo.github.io/osteostudio-preview/servicos/fisioterapia-especializada/): Avaliação funcional detalhada para entender o que está limitando o seu movimento, e construir um plano que faça sentido para a sua rotina e os seus objetivos. A fisioterapia costuma entrar no plano quando você convive com: dor lombar ou cervical que interfere no trabalho e no sono; hérnia de disco, dor ciática ou crises de coluna recorrentes; dor no ombro ou no joelho ao se mover, trabalhar ou treinar.
+- [Acupuntura](https://felipebarrozo.github.io/osteostudio-preview/servicos/acupuntura/): Um recurso que entra quando faz sentido para o seu caso, integrado ao raciocínio clínico e às demais abordagens do seu tratamento. A acupuntura pode entrar no plano quando você convive com: dor persistente na coluna ou nas articulações; tensão muscular e contraturas que voltam com frequência; dores de cabeça associadas a tensão.
+- [Reabilitação física e funcional](https://felipebarrozo.github.io/osteostudio-preview/servicos/reabilitacao/): Um processo construído por etapas para devolver movimento, força e confiança, com metas ligadas ao que você precisa voltar a fazer. A reabilitação costuma entrar no plano quando você: perdeu mobilidade ou força depois de uma lesão ou cirurgia; sente insegurança para voltar a treinar ou trabalhar; convive com limitações nas atividades do dia a dia.
+- [Fisioterapia esportiva](https://felipebarrozo.github.io/osteostudio-preview/servicos/fisioterapia-esportiva/): Avaliação do gesto esportivo, reabilitação progressiva e critérios claros para o retorno, do praticante amador ao atleta competitivo. A fisioterapia esportiva costuma entrar no plano quando você: se lesionou treinando ou competindo; sente dor que limita o seu desempenho no esporte; voltou a treinar e a lesão retornou.
+
+## O que tratamos
+
+- [Dor lombar](https://felipebarrozo.github.io/osteostudio-preview/servicos/osteopatia/): Crises de coluna, dor recorrente ou dificuldade para sentar, levantar e se movimentar.
+- [Hérnia de disco](https://felipebarrozo.github.io/osteostudio-preview/servicos/osteopatia/): Entenda quando o achado no exame pode estar relacionado aos sintomas e como avaliamos cada caso.
+- [Ciática](https://felipebarrozo.github.io/osteostudio-preview/servicos/osteopatia/): Dor que pode irradiar para glúteo ou perna, com ou sem formigamento e alterações de sensibilidade.
+- [Dor cervical](https://felipebarrozo.github.io/osteostudio-preview/servicos/osteopatia/): Dor ou rigidez no pescoço que pode interferir no trabalho, sono e movimentos do dia a dia.
+- [Dor no ombro](https://felipebarrozo.github.io/osteostudio-preview/servicos/fisioterapia-especializada/): Dificuldade para levantar o braço, dormir de lado, trabalhar, treinar ou praticar esportes.
+- [Dor no joelho](https://felipebarrozo.github.io/osteostudio-preview/servicos/fisioterapia-especializada/): Dor ao caminhar, correr, subir escadas, treinar ou retornar ao esporte.
+- [Lesões esportivas](https://felipebarrozo.github.io/osteostudio-preview/servicos/fisioterapia-esportiva/): Reabilitação para recuperar capacidade e construir um retorno progressivo ao esporte.
+- [Pós-operatório e reabilitação](https://felipebarrozo.github.io/osteostudio-preview/servicos/reabilitacao/): Recupere movimento, capacidade e função respeitando cada fase da recuperação.
+
+## Como funciona a consulta inicial
+
+- [01 · Compreender o seu caso](https://felipebarrozo.github.io/osteostudio-preview/#metodo): História, sintomas, movimento, rotina, exames quando relevantes e, principalmente, aquilo que a dor está impedindo você de fazer.
+- [02 · Construir e testar hipóteses](https://felipebarrozo.github.io/osteostudio-preview/#metodo): A consulta conecta essas informações para entender quais fatores podem estar relacionados ao seu quadro e orientar o plano de tratamento.
+- [03 · Definir o próximo passo](https://felipebarrozo.github.io/osteostudio-preview/#metodo): Depois de organizar o caso, explicamos o que encontramos, o que merece atenção e quais caminhos podem fazer sentido para o plano de tratamento.
+
+## Como a clínica trabalha
+
+- [20+ anos de experiência](https://felipebarrozo.github.io/osteostudio-preview/#diferenciais): Experiência clínica e docente aplicada à avaliação de dores, lesões e alterações do movimento e da função.
+- [Tratamento individualizado](https://felipebarrozo.github.io/osteostudio-preview/#diferenciais): O plano é construído a partir da consulta, dos seus objetivos e da forma como o quadro evolui.
+- [Integração de abordagens](https://felipebarrozo.github.io/osteostudio-preview/#diferenciais): Fisioterapia, Osteopatia, Acupuntura, exercício e outros recursos entram quando fazem sentido para o caso.
+- [Experiência em crises de coluna](https://felipebarrozo.github.io/osteostudio-preview/#diferenciais): Uma área presente há muitos anos na prática clínica, de quadros agudos a situações recorrentes e mais complexas.
+- [Clareza em cada etapa](https://felipebarrozo.github.io/osteostudio-preview/#diferenciais): Você entende o que estamos pensando, o que estamos propondo e por que determinada abordagem foi escolhida.
+- [Reavaliar também é tratar](https://felipebarrozo.github.io/osteostudio-preview/#diferenciais): A resposta ao tratamento traz novas informações. Quando necessário, hipótese, estratégia e progressão são ajustadas.
+
+## A clínica
+
+- [Página inicial](https://felipebarrozo.github.io/osteostudio-preview/): visão geral da OsteoStudio, do que é tratado e de como cada caso é avaliado.
+- [Vídeo institucional](https://felipebarrozo.github.io/osteostudio-preview/#conheca): Igor Bastos apresenta a clínica, o espaço e a forma como cada caso é acompanhado (cerca de 5 minutos).
+- [Localização e contato](https://felipebarrozo.github.io/osteostudio-preview/#consultorio): Em Icaraí, Niterói, a OsteoStudio reúne avaliação, tratamento e exercício em um ambiente integrado, funcional e acolhedor, pensado para acompanhar diferentes etapas da sua recuperação.
+- [Agendar consulta inicial](https://wa.me/5521981388335?text=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20consulta%20inicial%20na%20OsteoStudio.): conversa pelo WhatsApp com mensagem pronta para marcar a consulta.
